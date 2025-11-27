@@ -1,0 +1,20 @@
+[
+    {
+        "id": "preconceito-1",
+        "title": "Origem do Preconceito Humano: Um Modelo Neurocognitivo",
+        "summary": "Estudo integrativo sobre mecanismos cognitivos, afetivos e sociais que geram preconceito e desumanização.",
+        "status": "Em desenvolvimento",
+        "keywords": ["preconceito", "cognição social", "neurociência"],
+        "hypotheses": [
+            "O preconceito é mediado por heurísticas de ameaça social.",
+            "Controle inibitório reduz respostas automáticas preconceituosas."
+        ]
+    },
+    {
+        "id": "mbti-1",
+        "title": "Validação Científica de Tipologias de Personalidade",
+        "summary": "Proposta de métricas para comparação entre MBTI, Eneagrama e Big-Five",
+        "status": "Planejamento",
+        "keywords": ["personalidade", "psicométricas", "MBTI"]
+    }
+]
